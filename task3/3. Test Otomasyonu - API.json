@@ -1,0 +1,67 @@
+{
+	"info": {
+		"_postman_id": "4e61e8c2-d4d5-4933-b74d-ab7dad3bf7c3",
+		"name": "Task3",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"spec\": {},\r\n  \"options\": {\r\n    \"additionalProp1\": \"string\",\r\n    \"additionalProp2\": \"string\",\r\n    \"additionalProp3\": \"string\"\r\n  },\r\n  \"swaggerUrl\": \"http://petstore.swagger.io/v2/swagger.json\",\r\n  \"authorizationValue\": {\r\n    \"value\": \"string\",\r\n    \"type\": \"string\",\r\n    \"keyName\": \"string\"\r\n  },\r\n  \"securityDefinition\": {\r\n    \"type\": \"string\",\r\n    \"description\": \"string\"\r\n  }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://generator.swagger.io/api/gen/clients/java\n",
+					"protocol": "https",
+					"host": [
+						"generator",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"api",
+						"gen",
+						"clients",
+						"java\n"
+					]
+				},
+				"description": "Post Example"
+			},
+			"response": []
+		},
+		{
+			"name": "Get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://generator.swagger.io/api/gen/clients/java",
+					"protocol": "https",
+					"host": [
+						"generator",
+						"swagger",
+						"io"
+					],
+					"path": [
+						"api",
+						"gen",
+						"clients",
+						"java"
+					]
+				},
+				"description": "Get Example"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

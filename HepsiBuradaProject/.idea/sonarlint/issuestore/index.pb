@@ -1,0 +1,19 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+_
+/src/main/java/com/HepsiBurada/AbstractPage.java,3\5\35133b3aff35ccf7b173ebd49e53733503614dad
+]
+-src/main/java/com/hepsiBurada/StartPoint.java,d\c\dc1411144877cac1fb17816b293db958b3686293
+O
+src/test/java/TestScenario.java,c\a\ca6209ce4972aae00b5e1529f0085ac685102681
+\
+,src/main/java/com/hepsiBurada/page/Home.java,7\1\71a2687e90feac8f6dc1f07d19776ecb987497ff
+_
+/src/main/java/com/hepsiBurada/AbstractPage.java,f\b\fb5cf75ad64f83c6f67cb4f53c34286f73af13f1
+_
+/src/main/java/com/hepsiBurada/page/Product.java,b\c\bcc3ad2267546fe759ec1c813ccb07b32108e09c
+^
+.src/main/java/com/hepsiBurada/page/Search.java,e\5\e538a92ab3ef6adfaeef6d94351d87f77418ad81
+]
+-src/main/java/com/hepsiBurada/Automation.java,f\c\fc9af23c45913279aa14807f2d7404f651644e37

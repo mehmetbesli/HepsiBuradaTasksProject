@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È…×÷şÿÿÿÿ
+g	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8û»ã¹.
+O
+java:S1481)"-Remove this unused "elemText" local variable.(Ö ÷šıÿÿÿÿ8û»ã¹.
+p
+java:S1128	"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8÷—“ä¹.
+™
+java:S1130M"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(œ†¢Üşÿÿÿÿ8û»ã¹.
+J
+java:S11259"(Remove the literal "true" boolean value.(èó±äùÿÿÿÿ8û»ã¹.
+™
+java:S1130'"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ñÎ—¥üÿÿÿÿ8û»ã¹.
+]	java:S1250"<This block of commented-out lines of code should be removed.(£‹›´ûÿÿÿÿ8û»ã¹.
