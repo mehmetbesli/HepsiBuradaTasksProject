@@ -1,7 +1,7 @@
 # KeytorcNn11Project is a a test automation project.
 
 # TASK-1
-# Ürün detay sayfasındaki “Yorum Yap” işlemi için manuel functional test case’lerini çıkarınız.
+### Ürün detay sayfasındaki “Yorum Yap” işlemi için manuel functional test case’lerini çıkarınız.
 
 # TASK-2
 ## What is the content of the project
@@ -29,7 +29,7 @@
 5. Page Object Design Pattern is used
 
 # TASK-3
-## JSON API isteğinin sonucunun(http status) kontrolünü gerçekleştiren bir entegrasyon testi yazınız. Örnek url: http://generator.swagger.io Tarafınızdan seçilecek birer tane GET ve POST endpointleri için Http status code 200 verirse başarılı, değilse başarısız olarak rapor edilmelidir.
+### JSON API isteğinin sonucunun(http status) kontrolünü gerçekleştiren bir entegrasyon testi yazınız. Örnek url: http://generator.swagger.io Tarafınızdan seçilecek birer tane GET ve POST endpointleri için Http status code 200 verirse başarılı, değilse başarısız olarak rapor edilmelidir.
 
 # BONUS
-## Hepsiburada masaüstü sitesinde ürün detay ve tüm yorumlar sayfasında, yorumu olan ürünlerde “Sırala” dropdown’ı gelmektedir. Bunlar içerisinde “Varsayılan” ın nasıl çalıştığı ile ilgili analiz yapınız.
+### Hepsiburada masaüstü sitesinde ürün detay ve tüm yorumlar sayfasında, yorumu olan ürünlerde “Sırala” dropdown’ı gelmektedir. Bunlar içerisinde “Varsayılan” ın nasıl çalıştığı ile ilgili analiz yapınız.
