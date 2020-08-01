@@ -14,6 +14,8 @@ import java.util.concurrent.TimeUnit;
 
 public class AbstractPage {
 
+
+
     protected WebDriver driver;
     protected WebDriverWait wait;
     private static final int DEFAULT_WAIT = 60;
@@ -91,4 +93,8 @@ public class AbstractPage {
 
     }
 
+
+    public WebDriver getDriver() {
+        return driver;
+    }
 }
