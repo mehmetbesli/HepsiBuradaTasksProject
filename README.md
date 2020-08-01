@@ -1,4 +1,4 @@
-# KeytorcNn11Project is a a test automation project.
+# HepsiBurada is a test automation project.
 
 # TASK-1
 1. HepsiBurada sitesinde herhangi ürün bir aradıktan sonra Ürün detay sayfasındaki “Yorum Yap” işlemi için manuel functional test case’lerini çıkarınız.
