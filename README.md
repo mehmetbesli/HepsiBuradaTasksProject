@@ -1,7 +1,7 @@
 # KeytorcNn11Project is a a test automation project.
 
 # TASK-1
-1. Hepsi burada sistesinde ürün aradıktan sonra Ürün detay sayfasındaki “Yorum Yap” işlemi için manuel functional test case’lerini çıkarınız.
+1. HepsiBurada sitesinde herhangi ürün bir aradıktan sonra Ürün detay sayfasındaki “Yorum Yap” işlemi için manuel functional test case’lerini çıkarınız.
 
 # TASK-2
 ## What is the content of the project
